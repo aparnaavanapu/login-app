@@ -1,0 +1,43 @@
+
+.bg-container{
+    background-color:#ffffff;
+    background-size:cover;
+    height:100vh;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    padding:20px;
+}
+.card-container{
+    background-image:linear-gradient(to bottom,#2b2c49,#b5b9ff);
+    border-radius:12px;
+    border-width:0px;
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+    width:70%;
+    height:70%;
+    padding:20px;
+    margin:20px;
+
+}
+
+.btn{
+    background-color:#f8fafc;
+    border-radius:6px;
+    border-width:0px;
+    width:110px;
+    height:40px;
+    color:#303150;
+    font-family:"Roboto";
+
+}
+.heading{
+    color:#f8fafc;
+    font-size:42px;
+    font-family:"Roboto";
+    font-weight:700;
+    text-align:center;
+
+}
